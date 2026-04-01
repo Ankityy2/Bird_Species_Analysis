@@ -106,7 +106,7 @@ An interactive dashboard was built to visualize insights effectively.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](PowerBi Dashboard .png)
+![Dashboard](PowerBiDashboard.png)
 
 ---
 
